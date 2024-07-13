@@ -1,4 +1,5 @@
 Speech Emotion Recognition using TESS Toronto Emotional Speech Set
+--------------------------------------------------------------------
 This project demonstrates the process of speech emotion recognition using the TESS Toronto emotional speech set data. It involves loading and visualizing audio data, extracting features, and building a machine learning model to classify emotions based on speech signals.
 
 Table of Contents
